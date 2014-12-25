@@ -10,11 +10,12 @@
 </head>
 <body>
 <header>
+<h2>DiabeticApp</h2>
 </header>
 <nav>
-<ol><li>Ex1</li>
+<ul><li>Ex1</li>
 <li>Ex2</li>
-<li>Ex3</li></ol>
+<li>Ex3</li></ul>
 </nav>
 <footer>
 <p>Ash Sparks(c)2014</p>
